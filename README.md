@@ -53,7 +53,7 @@
 | 이유안 | [파티](https://www.acmicpc.net/problem/1238) | [최소힙](https://www.acmicpc.net/problem/1927) | [퇴사](https://www.acmicpc.net/problem/14501) | [시험감독](https://www.acmicpc.net/problem/13458) | [주사위굴리기](https://www.acmicpc.net/problem/14499) |
 | 이현복 | [링크](#) | [링크](#) | [링크](#) | [링크](#) | [링크](#) |
 | 정진영 | [링크](#) | [링크](#) | [링크](#) | [링크](#) | [링크](#) |
-| 한지웅 | [링크](#) | [링크](#) | [링크](#) | [링크](#) | [링크](#) |
+| 한지웅 | [리코쳇로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [링크](#) | [링크](#) | [링크](#) | [링크](#) |
 
 <br>
 
