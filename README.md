@@ -65,4 +65,4 @@
 
 | 날짜       | 출처     | 문제 1    | 문제 2    |
 | ---------- | -------- | --------- | --------- |
-| 2025-03-24 | 프로그래머스 | [https://school.programmers.co.kr/learn/courses/30/lessons/42626](더맵게) | [https://school.programmers.co.kr/learn/courses/30/lessons/42895?language=python3](N으로 표현) |
+| 2025-03-24 | 프로그래머스 | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
