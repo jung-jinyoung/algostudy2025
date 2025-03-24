@@ -53,10 +53,10 @@
 > **문제 제출 순서**  
 > `이유안` - `이현복` - `정진영` - `한지웅` - `김민수` - `연상헌` - `조창훈`
 
-| 주차 | 제출자 | 문제 1    | 문제 2    | 문제 3    | 문제 4    | 문제 5    |
-| ------ | ------ | --------- | --------- | --------- | --------- | --------- |
-| **1주차** <br> 25.03.24 | 이유안 | [파티](https://www.acmicpc.net/problem/1238) | [최소힙](https://www.acmicpc.net/problem/1927) | [퇴사](https://www.acmicpc.net/problem/14501) | [시험감독](https://www.acmicpc.net/problem/13458) | [주사위굴리기](https://www.acmicpc.net/problem/14499) |
-| **2주차** <br> 25.03.31 | 이현복 | [링크](*) | [링크](*) | [링크](*) | [링크](*) | [링크](*) |
+| 주차 | 제출자 | 문제 1                                         | 문제 2                                        | 문제 3                                           | 문제 4                                         | 문제 5                                            |
+| ------ | ------ |----------------------------------------------|---------------------------------------------|------------------------------------------------|----------------------------------------------|-------------------------------------------------|
+| **1주차** <br> 25.03.24 | 이유안 | [파티](https://www.acmicpc.net/problem/1238)   | [최소힙](https://www.acmicpc.net/problem/1927) | [퇴사](https://www.acmicpc.net/problem/14501)    | [시험감독](https://www.acmicpc.net/problem/13458) | [주사위굴리기](https://www.acmicpc.net/problem/14499) |
+| **2주차** <br> 25.03.31 | 이현복 | [세 용액](https://www.acmicpc.net/problem/2473) | [추월](https://www.acmicpc.net/problem/2002)  | [공유기 설치](https://www.acmicpc.net/problem/2110) | [촌수계산](https://www.acmicpc.net/problem/2644) | [오르막 수](https://www.acmicpc.net/problem/11057)  |
 
 <br>
 
