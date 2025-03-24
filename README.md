@@ -10,6 +10,9 @@
 - **Hyunbok_Lee** (bokbok1997)
 - **Jinyoung Jung**(jung-jinyoung)
 - **Jiwoong Han** (scorchedrice)
+- **Min Su Kim** (min75046591)
+- **shyeon** (shyeon96)
+- **cvcvcx9** (cvcvcx9)
 
 ### 📅 일정
 
@@ -47,13 +50,13 @@
 ### 🗃️ 과제
 
 각 문제 링크를 올려주세요.
+> **문제 제출 순서**  
+> `이유안` - `이현복` - `정진영` - `한지웅` - `김민수` - `연상헌` - `조창훈`
 
-| 제출자 | 문제 1    | 문제 2    | 문제 3    | 문제 4    | 문제 5    |
-| ------ | --------- | --------- | --------- | --------- | --------- |
-| 이유안 | [파티](https://www.acmicpc.net/problem/1238) | [최소힙](https://www.acmicpc.net/problem/1927) | [퇴사](https://www.acmicpc.net/problem/14501) | [시험감독](https://www.acmicpc.net/problem/13458) | [주사위굴리기](https://www.acmicpc.net/problem/14499) |
-| 이현복 | [링크](#) | [링크](#) | [링크](#) | [링크](#) | [링크](#) |
-| 정진영 | [링크](#) | [링크](#) | [링크](#) | [링크](#) | [링크](#) |
-| 한지웅 | [리코쳇로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [길찾기게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [링크](#) | [링크](#) | [링크](#) |
+| 주차 | 제출자 | 문제 1    | 문제 2    | 문제 3    | 문제 4    | 문제 5    |
+| ------ | ------ | --------- | --------- | --------- | --------- | --------- |
+| **1주차** <br> 25.03.24 | 이유안 | [파티](https://www.acmicpc.net/problem/1238) | [최소힙](https://www.acmicpc.net/problem/1927) | [퇴사](https://www.acmicpc.net/problem/14501) | [시험감독](https://www.acmicpc.net/problem/13458) | [주사위굴리기](https://www.acmicpc.net/problem/14499) |
+| **2주차** <br> 25.03.31 | 이현복 | [링크](*) | [링크](*) | [링크](*) | [링크](*) | [링크](*) |
 
 <br>
 
