@@ -11,7 +11,7 @@
 - **Jinyoung Jung**(jung-jinyoung)
 - **Jiwoong Han** (scorchedrice)
 - **Min Su Kim** (min75046591)
-- **shyeon** (shyeon96)
+- **SangHeon Yeon** (shyeon96)
 - **cvcvcx9** (cvcvcx9)
 
 ### 📅 일정
