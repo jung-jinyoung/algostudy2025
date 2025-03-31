@@ -11,7 +11,7 @@
 - **Jinyoung Jung**(jung-jinyoung)
 - **Jiwoong Han** (scorchedrice)
 - **Min Su Kim** (min75046591)
-- **shyeon** (shyeon96)
+- **SangHeon Yeon** (shyeon96)
 - **cvcvcx9** (cvcvcx9)
 
 ### 📅 일정
@@ -57,6 +57,7 @@
 | ------ | ------ |----------------------------------------------|---------------------------------------------|------------------------------------------------|----------------------------------------------|-------------------------------------------------|
 | **1주차** <br> 25.03.24 | 이유안 | [파티](https://www.acmicpc.net/problem/1238)   | [최소힙](https://www.acmicpc.net/problem/1927) | [퇴사](https://www.acmicpc.net/problem/14501)    | [시험감독](https://www.acmicpc.net/problem/13458) | [주사위굴리기](https://www.acmicpc.net/problem/14499) |
 | **2주차** <br> 25.03.31 | 이현복 | [세 용액](https://www.acmicpc.net/problem/2473) | [추월](https://www.acmicpc.net/problem/2002)  | [공유기 설치](https://www.acmicpc.net/problem/2110) | [촌수계산](https://www.acmicpc.net/problem/2644) | [오르막 수](https://www.acmicpc.net/problem/11057)  |
+| **3주차** <br> 25.04.07 | 정진영 | [안전 영역](https://www.acmicpc.net/problem/2468) | [불](https://www.acmicpc.net/problem/5427)  | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [보석 도둑](https://www.acmicpc.net/problem/1202) | [나무자르기](https://www.acmicpc.net/problem/2805)  |
 
 <br>
 
@@ -66,6 +67,7 @@
 
 모의 코딩 테스트 문제 링크를 추가해주세요.
 
-| 날짜       | 출처     | 문제 1    | 문제 2    |
-| ---------- | -------- | --------- | --------- |
+| 날짜         | 출처     | 문제 1    | 문제 2                                                                      |
+|------------|--------| --------- |---------------------------------------------------------------------------|
 | 2025-03-24 | 프로그래머스 | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
+| 2025-03-31 | 소프티어   | [슈퍼컴퓨터 클러스터](https://softeer.ai/practice/6252) | [마이크로서버](https://softeer.ai/practice/6264) |
