@@ -58,6 +58,7 @@
 | **1주차** <br> 25.03.24 | 이유안 | [파티](https://www.acmicpc.net/problem/1238)   | [최소힙](https://www.acmicpc.net/problem/1927) | [퇴사](https://www.acmicpc.net/problem/14501)    | [시험감독](https://www.acmicpc.net/problem/13458) | [주사위굴리기](https://www.acmicpc.net/problem/14499) |
 | **2주차** <br> 25.03.31 | 이현복 | [세 용액](https://www.acmicpc.net/problem/2473) | [추월](https://www.acmicpc.net/problem/2002)  | [공유기 설치](https://www.acmicpc.net/problem/2110) | [촌수계산](https://www.acmicpc.net/problem/2644) | [오르막 수](https://www.acmicpc.net/problem/11057)  |
 | **3주차** <br> 25.04.07 | 정진영 | [안전 영역](https://www.acmicpc.net/problem/2468) | [불](https://www.acmicpc.net/problem/5427)  | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [보석 도둑](https://www.acmicpc.net/problem/1202) | [나무자르기](https://www.acmicpc.net/problem/2805)  |
+| **4주차** <br> 25.04.14 | 한지웅 | [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)  | [표현 가능한 이진트리]([https://www.acmicpc.net/problem/1654](https://school.programmers.co.kr/learn/courses/30/lessons/150367)) | [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354) | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |
 
 <br>
 
