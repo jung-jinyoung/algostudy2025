@@ -72,4 +72,5 @@
 |------------|--------| --------- |---------------------------------------------------------------------------|
 | 2025-03-24 | 프로그래머스 | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
 | 2025-03-31 | 소프티어   | [슈퍼컴퓨터 클러스터](https://softeer.ai/practice/6252) | [마이크로서버](https://softeer.ai/practice/6264) |
-| 2025-03-31 <br> *과제 대체* | 백준  | [연구소](https://www.acmicpc.net/problem/14502) | [특정 거리 도시 찾기](https://www.acmicpc.net/problem/18352) |
+| 2025-04-07 <br> *과제 대체* | 백준  | [연구소](https://www.acmicpc.net/problem/14502) | [특정 거리 도시 찾기](https://www.acmicpc.net/problem/18352) |
+| 2025-04-14 | 프로그래머스  | [디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
