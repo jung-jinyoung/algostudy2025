@@ -60,7 +60,7 @@
 | **3주차** <br> 25.04.07 | 정진영 | [안전 영역](https://www.acmicpc.net/problem/2468) | [불](https://www.acmicpc.net/problem/5427)  | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [보석 도둑](https://www.acmicpc.net/problem/1202) | [나무자르기](https://www.acmicpc.net/problem/2805)  |
 | **4주차** <br> 25.04.14 | 한지웅 | [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)  | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354) | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |
 
-| **5주차** <br> 25.04.21 | 김민수 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)  | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)  |
+| **5주차** <br> 25.04.21 | 김민수 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)  | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)  |
 
 <br>
 
@@ -74,4 +74,5 @@
 |------------|--------| --------- |---------------------------------------------------------------------------|
 | 2025-03-24 | 프로그래머스 | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
 | 2025-03-31 | 소프티어   | [슈퍼컴퓨터 클러스터](https://softeer.ai/practice/6252) | [마이크로서버](https://softeer.ai/practice/6264) |
-| 2025-03-31 <br> *과제 대체* | 백준  | [연구소](https://www.acmicpc.net/problem/14502) | [특정 거리 도시 찾기](https://www.acmicpc.net/problem/18352) |
+| 2025-04-07 <br> *과제 대체* | 백준  | [연구소](https://www.acmicpc.net/problem/14502) | [특정 거리 도시 찾기](https://www.acmicpc.net/problem/18352) |
+| 2025-04-14 | 프로그래머스  | [디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
