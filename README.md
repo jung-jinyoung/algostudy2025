@@ -60,6 +60,7 @@
 | **3주차** <br> 25.04.07 | 정진영 | [안전 영역](https://www.acmicpc.net/problem/2468) | [불](https://www.acmicpc.net/problem/5427)  | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [보석 도둑](https://www.acmicpc.net/problem/1202) | [나무자르기](https://www.acmicpc.net/problem/2805)  |
 | **4주차** <br> 25.04.14 | 한지웅 | [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)  | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354) | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |
 | **5주차** <br> 25.04.21 | 김민수 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)  | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)  |
+| **6주차** <br> 25.04.28 | 연상헌 | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)  | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)  |
 
 <br>
 
