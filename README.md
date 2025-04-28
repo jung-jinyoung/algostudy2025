@@ -78,3 +78,4 @@
 | 2025-04-07 <br> *과제 대체* | 백준  | [연구소](https://www.acmicpc.net/problem/14502) | [특정 거리 도시 찾기](https://www.acmicpc.net/problem/18352) |
 | 2025-04-14 | 프로그래머스  | [디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
 | 2025-04-21 | 프로그래머스  | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |
+| 2025-04-28 | 프로그래머스  | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) |
