@@ -62,6 +62,7 @@
 | **5주차** <br> 25.04.21 | 김민수 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)  | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)  |
 | **6주차** <br> 25.04.28 | 연상헌 | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)  | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)  |
 | **7주차** <br> 25.05.05 | 조창훈 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [단지번호붙이기](https://www.acmicpc.net/problem/2667)  | [국영수](https://www.acmicpc.net/problem/10825) | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | [후보 추천하기](https://www.acmicpc.net/problem/1713)  |
+| **8주차** <br> 25.05.12 | 이유안 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)  | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)  |
 
 <br>
 
@@ -79,3 +80,4 @@
 | 2025-04-14 | 프로그래머스  | [디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
 | 2025-04-21 | 프로그래머스  | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |
 | 2025-04-28 | 프로그래머스  | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) |
+| 2025-05-05 <br> *과제 대체* | 프로그래머스  | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |
