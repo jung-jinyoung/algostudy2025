@@ -81,3 +81,5 @@
 | 2025-04-21 | 프로그래머스  | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |
 | 2025-04-28 | 프로그래머스  | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) |
 | 2025-05-05 <br> *과제 대체* | 프로그래머스  | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |
+| 2025-05-12  | 프로그래머스  | [야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) |
+
