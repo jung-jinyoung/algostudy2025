@@ -72,14 +72,15 @@
 
 모의 코딩 테스트 문제 링크를 추가해주세요.
 
-| 날짜         | 출처     | 문제 1    | 문제 2                                                                      |
-|------------|--------| --------- |---------------------------------------------------------------------------|
-| 2025-03-24 | 프로그래머스 | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
-| 2025-03-31 | 소프티어   | [슈퍼컴퓨터 클러스터](https://softeer.ai/practice/6252) | [마이크로서버](https://softeer.ai/practice/6264) |
-| 2025-04-07 <br> *과제 대체* | 백준  | [연구소](https://www.acmicpc.net/problem/14502) | [특정 거리 도시 찾기](https://www.acmicpc.net/problem/18352) |
-| 2025-04-14 | 프로그래머스  | [디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
-| 2025-04-21 | 프로그래머스  | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |
-| 2025-04-28 | 프로그래머스  | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) |
-| 2025-05-05 <br> *과제 대체* | 프로그래머스  | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |
-| 2025-05-12  | 프로그래머스  | [야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) |
-
+| 날짜                      | 출처     | 문제 1    | 문제 2                                                                                       |
+|-------------------------|--------| --------- |--------------------------------------------------------------------------------------------|
+| 2025-03-24              | 프로그래머스 | [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)                  |
+| 2025-03-31              | 소프티어   | [슈퍼컴퓨터 클러스터](https://softeer.ai/practice/6252) | [마이크로서버](https://softeer.ai/practice/6264)                                                 |
+| 2025-04-07 <br> *과제 대체* | 백준  | [연구소](https://www.acmicpc.net/problem/14502) | [특정 거리 도시 찾기](https://www.acmicpc.net/problem/18352)                                       |
+| 2025-04-14              | 프로그래머스  | [디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                  |
+| 2025-04-21              | 프로그래머스  | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)                   |
+| 2025-04-28              | 프로그래머스  | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)              |
+| 2025-05-05 <br> *과제 대체* | 프로그래머스  | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)                  |
+| 2025-05-12              | 프로그래머스  | [야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                   |
+| 2025-05-19 <br> *과제 대체* | 프로그래머스  | [선입 선출 스케일링](https://school.programmers.co.kr/learn/courses/30/lessons/12920)| [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259?language=python3) |
+<br>
