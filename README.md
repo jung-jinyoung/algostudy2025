@@ -64,6 +64,9 @@
 | **7주차** <br> 25.05.05 | 조창훈 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                               | [국영수](https://www.acmicpc.net/problem/10825)                                    | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                            | [후보 추천하기](https://www.acmicpc.net/problem/1713)                            |
 | **8주차** <br> 25.05.12 | 이유안 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)  | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)     | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)      | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)     |
 | **9주차** <br> 25.05.19 | 이현복 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)| [비밀번호 만들기](https://www.acmicpc.net/problem/17218)| [전쟁 - 땅따먹기](https://www.acmicpc.net/problem/1270)| [수 나누기 게임](https://www.acmicpc.net/problem/27172)|
+| **10주차** <br> 25.05.26 | 정진영 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [배열 돌리기 4](https://www.acmicpc.net/problem/17406)| - | - | - |
+
+
 <br>
 
 ---
@@ -83,4 +86,6 @@
 | 2025-05-05 <br> *과제 대체* | 프로그래머스  | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)                  |
 | 2025-05-12              | 프로그래머스  | [야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                   |
 | 2025-05-19 <br> *과제 대체* | 프로그래머스  | [선입 선출 스케일링](https://school.programmers.co.kr/learn/courses/30/lessons/12920)| [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259?language=python3) |
+| 2025-05-26              | 프로그래머스  | [충돌위험찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | [동영상재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)                   |
+
 <br>
