@@ -65,7 +65,7 @@
 | **8주차** <br> 25.05.12 | 이유안 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)  | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)     | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)      | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)     |
 | **9주차** <br> 25.05.19 | 이현복 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)| [비밀번호 만들기](https://www.acmicpc.net/problem/17218)| [전쟁 - 땅따먹기](https://www.acmicpc.net/problem/1270)| [수 나누기 게임](https://www.acmicpc.net/problem/27172)|
 | **10주차** <br> 25.05.26 | 정진영 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [배열 돌리기 4](https://www.acmicpc.net/problem/17406)| - | - | - |
-| **11주차** <br> 25.05.26 | 한지웅 | [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)| - | - | - |
+| **11주차** <br> 25.06.02 | 한지웅 | [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)| [혼자놀기의달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | - | - |
 
 
 <br>
