@@ -88,6 +88,6 @@
 | 2025-05-12              | 프로그래머스  | [야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                   |
 | 2025-05-19 <br> *과제 대체* | 프로그래머스  | [선입 선출 스케일링](https://school.programmers.co.kr/learn/courses/30/lessons/12920)| [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259?language=python3) |
 | 2025-05-26              | 프로그래머스  | [충돌위험찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | [동영상재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)                   |
-| 2025-06-02              | 프로그래머스  | [-](-) | [-](-)                   |
+| 2025-06-02              | 프로그래머스  | [비밀코드해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)                   |
 
 <br>
