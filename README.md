@@ -67,6 +67,8 @@
 | **10주차** <br> 25.05.26 | 정진영 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [배열 돌리기 4](https://www.acmicpc.net/problem/17406)| - | - | - |
 | **11주차** <br> 25.06.02 | 한지웅 | [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)| [혼자놀기의달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | - | - |
 | **12주차** <br> 25.06.09 | 김민수 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)| [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | - | - |
+| **13주차** <br> 25.06.16 | 연상헌 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)| [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
+
 
 
 <br>
