@@ -68,6 +68,7 @@
 | **11주차** <br> 25.06.02 | 한지웅 | [아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)| [혼자놀기의달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | - | - |
 | **12주차** <br> 25.06.09 | 김민수 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)| [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | - | - |
 | **13주차** <br> 25.06.16 | 연상헌 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)| [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
+| **14주차** <br> 25.06.23 | 조창훈 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [RGB거리](https://www.acmicpc.net/problem/1149)| [알파벳](https://www.acmicpc.net/problem/1987) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
 
 
 
