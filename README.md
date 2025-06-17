@@ -94,5 +94,5 @@
 | 2025-05-26              | 프로그래머스  | [충돌위험찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | [동영상재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)                   |
 | 2025-06-02              | 프로그래머스  | [비밀코드해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)                   |
 | 2025-06-09              | 백준  | [회의실 배정](https://www.acmicpc.net/problem/1931) | [LCS](https://www.acmicpc.net/problem/9251)                   |
-
+| 2025-06-16              | 프로그래머스  | [보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)                   |
 <br>
