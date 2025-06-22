@@ -69,6 +69,7 @@
 | **12주차** <br> 25.06.09 | 김민수 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353)| [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | - | - |
 | **13주차** <br> 25.06.16 | 연상헌 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)| [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |
 | **14주차** <br> 25.06.23 | 조창훈 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [RGB거리](https://www.acmicpc.net/problem/1149)| [알파벳](https://www.acmicpc.net/problem/1987) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
+| **15주차** <br> 25.06.23 | 이유안 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)| [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) |
 
 
 
@@ -95,4 +96,5 @@
 | 2025-06-02              | 프로그래머스  | [비밀코드해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)                   |
 | 2025-06-09              | 백준  | [회의실 배정](https://www.acmicpc.net/problem/1931) | [LCS](https://www.acmicpc.net/problem/9251)                   |
 | 2025-06-16              | 프로그래머스  | [보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)                   |
+| 2025-06-23              | 프로그래머스  | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)                   |
 <br>
