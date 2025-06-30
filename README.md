@@ -97,4 +97,5 @@
 | 2025-06-09              | 백준  | [회의실 배정](https://www.acmicpc.net/problem/1931) | [LCS](https://www.acmicpc.net/problem/9251)                   |
 | 2025-06-16              | 프로그래머스  | [보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)                   |
 | 2025-06-23              | 프로그래머스  | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)                   |
+| 2025-06-30              | 프로그래머스  | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)                   |
 <br>
