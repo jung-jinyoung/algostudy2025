@@ -94,11 +94,11 @@
 | 2025-05-05 <br> *과제 대체* | 프로그래머스  | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)                  |
 | 2025-05-12              | 프로그래머스  | [야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                   |
 | 2025-05-19 <br> *과제 대체* | 프로그래머스  | [선입 선출 스케일링](https://school.programmers.co.kr/learn/courses/30/lessons/12920)| [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259?language=python3) |
-| 2025-05-26              | 프로그래머스  | [충돌위험찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | [동영상재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)                   |
-| 2025-06-02              | 프로그래머스  | [비밀코드해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)                   |
-| 2025-06-09              | 백준  | [회의실 배정](https://www.acmicpc.net/problem/1931) | [LCS](https://www.acmicpc.net/problem/9251)                   |
-| 2025-06-16              | 프로그래머스  | [보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)                   |
-| 2025-06-23              | 프로그래머스  | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)                   |
-| 2025-06-30              | 프로그래머스  | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)                   |
-| 2025-07-07              | 프로그래머스  | []() | []()                   |
+| 2025-05-26              | 프로그래머스  | [충돌위험찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | [동영상재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)                 |
+| 2025-06-02              | 프로그래머스  | [비밀코드해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | [양과늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)                    |
+| 2025-06-09              | 백준  | [회의실 배정](https://www.acmicpc.net/problem/1931) | [LCS](https://www.acmicpc.net/problem/9251)                                                |
+| 2025-06-16              | 프로그래머스  | [보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)               |
+| 2025-06-23              | 프로그래머스  | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)                  |
+| 2025-06-30              | 프로그래머스  | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)                |
+| 2025-07-07              | 프로그래머스  | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)                                                                                  |
 <br>
