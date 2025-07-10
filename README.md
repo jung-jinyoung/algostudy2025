@@ -71,7 +71,7 @@
 | **14주차** <br> 25.06.23 | 조창훈 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [RGB거리](https://www.acmicpc.net/problem/1149)| [알파벳](https://www.acmicpc.net/problem/1987) | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | [단축키 지정](https://www.acmicpc.net/problem/1283)                             |
 | **15주차** <br> 25.06.30 | 이유안 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)| [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)   |
 | **16주차** <br> 25.07.07 | 이현복 | [목장 건설하기](https://www.acmicpc.net/problem/14925) | [엔비스카의 영혼](https://www.acmicpc.net/problem/16568)| [자동차경주대회](https://www.acmicpc.net/problem/2651) | [카드 놓기](https://www.acmicpc.net/problem/18115) | [추월](https://www.acmicpc.net/problem/2002)                                 |
-
+| **17주차** <br> 25.07.14 | 정진영 | [내리막길](https://www.acmicpc.net/problem/1520)_ | [암호코드](https://www.acmicpc.net/problem/2011)|- | - | -|
 
 
 <br>
