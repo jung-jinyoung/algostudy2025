@@ -102,4 +102,6 @@
 | 2025-06-30              | 프로그래머스  | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)                |
 | 2025-07-07              | 프로그래머스  | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)                                                                                  |
 | 2025-07-14              | 백준  | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | -  |
+| 2025-07-21              | 백준  | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | [자두나무](https://www.acmicpc.net/problem/2240)  |
+
 <br>
